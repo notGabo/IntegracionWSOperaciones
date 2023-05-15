@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WSOperaciones:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/WSOperaciones_jar</output-path>
+    <root id="archive" name="WSOperaciones.jar">
+      <element id="module-output" name="WSOperaciones" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr173_api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/sjsxp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-xjc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/http.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/FastInfoset.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/streambuffer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/resolver.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/saaj-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr181-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-impl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/stax-ex.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/saaj-impl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr250-api.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
