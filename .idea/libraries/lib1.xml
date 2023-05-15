@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr173_api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/sjsxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/FastInfoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/resolver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jsr250-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
