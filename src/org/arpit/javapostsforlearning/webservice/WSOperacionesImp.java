@@ -39,7 +39,7 @@ public class WSOperacionesImp implements WSOperaciones{
 
  }
 
- public String producto (String categoria, int precio){
+	 public String producto (String categoria, int precio){
 	 String productoResultado;
 	 if (categoria == null || categoria.length() == 0 || precio < 0)  {
 		 return "Error";

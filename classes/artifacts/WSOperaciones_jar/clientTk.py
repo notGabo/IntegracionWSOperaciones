@@ -124,8 +124,5 @@ btnProducto.pack()
 lblRespuetaProducto = tk.Label(app, text="")
 lblRespuetaProducto.pack()
 
-background_image=tk.PhotoImage(file="background.ppm")
-limg = tk.Label(app, i=background_image)
-limg.pack()
 
 app.mainloop()
