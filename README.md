@@ -1,7 +1,7 @@
 # Servidor y cliente para prueba 2 integracion de plataformas
 
 ## 0. ANTES DE COMENZAR
-Este proyecto ha sido escrito en java con el jdk 1.8 (java-1.8.0-openjdk-1.8.0) usando el ide de Jetbrains IntelliJ idea, el cual puede ser descargado [en este enlace](https://www.jetbrains.com/idea/download/). Tambien se probo el proyecto con estas configuraciones en linux y windows en 2 equipos distintos, por lo que no deberia haber dramas para la ejecucion del proyecto. Sin embargo, esto no sucedia en netbeans, daba muchos problemas y obligaba a tener un tipo de servidor instalado. De todas maneras, deje el proyecto buildeado en un .jar en la ruta ```./IntegracionWSOperaciones/classes/artifacts/WSOperaciones_jar/```
+Este proyecto ha sido escrito en java con el jdk 1.8 ([java-1.8.0-openjdk-1.8.0](https://www.openlogic.com/openjdk-downloads?field_java_parent_version_target_id=416&field_operating_system_target_id=436&field_architecture_target_id=391&field_java_package_target_id=396)) usando el ide de Jetbrains IntelliJ idea, el cual puede ser descargado [en este enlace](https://www.jetbrains.com/idea/download/). Tambien se probo el proyecto con estas configuraciones en linux y windows en 2 equipos distintos, por lo que no deberia haber dramas para la ejecucion del proyecto. Sin embargo, esto no sucedia en netbeans, daba muchos problemas y obligaba a tener un tipo de servidor instalado. De todas maneras, deje el proyecto buildeado en un .jar en la ruta ```./IntegracionWSOperaciones/classes/artifacts/WSOperaciones_jar/```
 
 ## 1. Ejecucion de los ambientes (servidor y cliente)
 
