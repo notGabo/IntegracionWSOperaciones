@@ -11,7 +11,6 @@ public class WSOperacionesImp implements WSOperaciones{
 		 name=" "+name;
 	 else
 		 name=" no upper case"+name;
-	 
 	 System.out.println("LOG -"+new java.util.Date() + "-"+name);
 	 
   return name;
@@ -19,8 +18,22 @@ public class WSOperacionesImp implements WSOperaciones{
 
  public String login(String usuario, String clave){
 	 String booleano = "false";
-	 if ( usuario.equals("Hola") && clave.equals("123") ){
+	 if ( usuario.equals("Administrador") && clave.equals("123") ){
 		 booleano = "true";
+	 }
+	 else if ( usuario.equals("Bodeguero") && clave.equals("123") ){
+		 booleano = "true";
+	 }
+	 else if ( usuario.equals("Contador") && clave.equals("123") ){
+		 booleano = "true";
+	 }
+	 else if ( usuario.equals("Vendedor") && clave.equals("123") ){
+		 booleano = "true";
+	 else if ( usuario.equals("Encargado") && clave.equals("123") ){
+		 booleano = "true";
+	 }
+	 else{
+		 booleano = "false";
 	 }
 	 System.out.println("Funcion login: " + booleano);
 	 return booleano;
@@ -36,7 +49,6 @@ public class WSOperacionesImp implements WSOperaciones{
 	 }
 	 System.out.println("Funcion procesarPago: " + Integer.toString(resultado));
 	 return resultado;
-
  }
 
 	 public String producto (String categoria, int precio){
