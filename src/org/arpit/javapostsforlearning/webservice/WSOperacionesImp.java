@@ -29,6 +29,7 @@ public class WSOperacionesImp implements WSOperaciones{
 	 }
 	 else if ( usuario.equals("Vendedor") && clave.equals("123") ){
 		 booleano = "true";
+	 }
 	 else if ( usuario.equals("Encargado") && clave.equals("123") ){
 		 booleano = "true";
 	 }
